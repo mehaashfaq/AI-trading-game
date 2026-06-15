@@ -35,3 +35,10 @@ To download, execute, and test the game locally on your computer, follow these s
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
+
+   <img width="1677" height="877" alt="image" src="https://github.com/user-attachments/assets/4b170397-68b8-429f-800e-b6f8dca307a7" />
+
+
+   <img width="1677" height="877" alt="image" src="https://github.com/user-attachments/assets/fc13b696-1a92-4d7d-a7e6-11aa710c317f" />
+
+
