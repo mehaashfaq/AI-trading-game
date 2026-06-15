@@ -6,7 +6,7 @@ An interactive, AI-driven web application built with **Streamlit** and **TensorF
 
 ## 🚀 Live Demo
 Deploy and play the game directly via Streamlit Community Cloud:
-👉 **[Insert Your Streamlit App Link Here]**
+👉 **https://ai-trading-game-ywkthiecy9jjgiuzalqyjx.streamlit.app/**
 
 ---
 
